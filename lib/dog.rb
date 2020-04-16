@@ -22,7 +22,9 @@ class Dog
      end
   end
   
-
+  def clear_all
+    @@all.clear
+  end
   
   
 end
